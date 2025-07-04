@@ -1,0 +1,17 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.hit{
+background-color: rgb(142, 255, 127);
+text-align: center;
+  color: rgba(217, 93, 48, 0.878);
+  font-size: 65%;
+  box-shadow: -1px 0 rgb(164, 148, 148), 0 1px rgb(147, 128, 128), 1px 0 rgb(159, 141, 141), 0 -1px rgb(138, 127, 127);
+  height: 25px;
+  shape-outside: content-box;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.pro:hover{
+  color: rgb(0, 225, 255);
+}
